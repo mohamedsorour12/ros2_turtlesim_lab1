@@ -1,0 +1,6 @@
+turtlesim_interfaces/TargetPose target_pose
+---
+bool success
+---
+float32 distance_remaining
+float32 angle_remaining
